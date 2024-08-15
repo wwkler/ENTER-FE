@@ -7,11 +7,10 @@
 - 미래에 대한 전략 수립을 저비용으로 신속하게 진행하고자 하는 기업, 자사의 제품 서비스와 경쟁사 제품 서비스를 비교 분석하는 기업 사용 가능
 - 수집된 실사용 데이터의 분석 결과를 통해 개선 사항, 타겟 세분화, 광고 제작 가이드, 예상 판매량 등 수많은 솔루션 도출 가능
   
-<p float="left">
-  ![17조  4기 17조 소개이미지 (1)](https://github.com/user-attachments/assets/354dde58-7197-4814-9320-ed760432e065)
+![17조  4기 17조 소개이미지 (1)](https://github.com/user-attachments/assets/354dde58-7197-4814-9320-ed760432e065)
   
-  ![17조  4기 17조 썸네일](https://github.com/user-attachments/assets/2a2d28e7-2b77-4607-b724-6db75ad3497b)
-</p>
+![17조  4기 17조 썸네일](https://github.com/user-attachments/assets/2a2d28e7-2b77-4607-b724-6db75ad3497b)
+
 
 
 ## 2. 서비스 내용
