@@ -8,8 +8,9 @@
 - 수집된 실사용 데이터의 분석 결과를 통해 개선 사항, 타겟 세분화, 광고 제작 가이드, 예상 판매량 등 수많은 솔루션 도출 가능
   
 <p float="left">
-  <img src="https://bit.ly/41WVaYY" width="345" />
-  <img src="https://bit.ly/3vBiLlZ" width="500" /> 
+  ![17조  4기 17조 소개이미지 (1)](https://github.com/user-attachments/assets/354dde58-7197-4814-9320-ed760432e065)
+  
+  ![17조  4기 17조 썸네일](https://github.com/user-attachments/assets/2a2d28e7-2b77-4607-b724-6db75ad3497b)
 </p>
 
 
@@ -27,49 +28,68 @@
 - 적재된 VectorDB에서 실사용 데이터를 참조해 질문에 대한 답변 생성 및 도출
 - 수집된 실사용 데이터를 기반으로 여러가지 분석 기법을 적용한 리포트 생성 및 다운로드
 
-<img src="https://bit.ly/48Svdfu" width="500" />
+![service-flow](https://github.com/user-attachments/assets/e4803b79-4415-4a34-b61b-59b00b3bccdd)
+
+
+
 
 ## 3. 기술 스택
-<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTGDKv2KMy9JFp4EPIRD59qfy_erVhHfYiNr7vQbHgazMGf73omOTwPhEz-KCt6Ktj84pkke7npkuI1tfFN8yXWr_06Yg=w1920-h868" width="500" />
+
+![tool-stack](https://github.com/user-attachments/assets/3b6d1880-9993-4394-a0a9-77a59341f399)
+
 
 ## 4. 기능
    - 프롬프트
+     
    ![main_prompt](https://github.com/user-attachments/assets/e42cc0db-91b2-493c-9ae8-cdcecff0917f)
 
    &nbsp;
    
    - 크롤러 설정(수집 대상 선택)
-   <img src="https://bit.ly/3RP2Ibq" width="800" />
+     
+   ![crawler_config](https://github.com/user-attachments/assets/6a12710a-d888-403f-92c6-45cd632aa94d)
 
+    
    &nbsp;
 
    - 크롤러 설정(수집 대상 크롤링 데이터 확인)
-   <img src="https://bit.ly/4aV6BEr" width="800" />
 
+   ![crawler_info_show](https://github.com/user-attachments/assets/b0c96c3c-95a4-4cce-be98-dc1365d56fbe)
+
+    
    &nbsp;
 
    - 크롤러 설정(크롤러 템플릿 설정)
-   <img src="https://bit.ly/4aYfsFM" width="800" />
+     
+   ![crawler_template](https://github.com/user-attachments/assets/c0fc263f-f283-4564-a3ba-f4b4d7b17135)
+
 
    &nbsp;
 
    - 프롬프트 설정
-   <img src="https://bit.ly/48SvGyg" width="800" />
+     
+   ![prompt_config](https://github.com/user-attachments/assets/ce623d35-64e4-4dda-b37c-698c9ee137bb)
+
 
    &nbsp;
 
    - 레포트 설정
-   <img src="https://bit.ly/41YYrHb" width="800" />
+     
+   ![report_config](https://github.com/user-attachments/assets/c1475aa8-12ce-4116-97e2-dc4335c79cca)
 
    &nbsp;
 
    - 모델 설정
-   <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSzCmWUs89YVSITvmZq5AY8r_Ke8GZnBTLDKEfh3U1Pkz2p8yNCWbq-baU9N-Oz0YAe7Xe88vCnELYUH4Mzm2iG6vQSUg=w1920-h868" width="800" />
+     
+   ![model_config](https://github.com/user-attachments/assets/b53f8de7-d880-4067-9dae-59215802369b)
+
 
    &nbsp;
      
 ## 5. 개발 일정
-<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQnMmJ4hjHz20Mw2DdM8hxkvEN1FGxez-n5TPzFJ24XgHhxnj-vQDSoHm34dK5aY6AMeeRDUC9fvj6k8dkwlXDaxQNsrA=w1920-h868" width="800" />
+
+![develop_time](https://github.com/user-attachments/assets/925502d7-ff59-4d02-aaaa-99658a4abfb6)
+
 
 
 
