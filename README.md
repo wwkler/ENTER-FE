@@ -34,7 +34,7 @@
 
 ## 4. 기능
    - 프롬프트
-   <img src="https://bit.ly/48zRZJo" width="800" />
+   ![main_prompt](https://github.com/user-attachments/assets/e42cc0db-91b2-493c-9ae8-cdcecff0917f)
 
    &nbsp;
    
