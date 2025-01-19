@@ -1,5 +1,15 @@
 # KT 에이블스쿨 4기 빅프로젝트
 
+## 👥Team Organization 
+[Repositories](https://github.com/orgs/AIVLE-ENTER/repositories)
+
+<br>
+
+## 📚Notion 정리 상세 보기
+[Notion Link](https://delicate-trouble-d06.notion.site/AI-B2B-1795bfcbe0478011be1fde5ccc104bcd)
+
+<br>
+
 ## 1. 주제
 **고객 만족도조사 자동화: 내 손안의 전략 수립 파트너-ENTER**
 - 자사 제품 및 서비스의 객관적인 진단을 확인하기 위해서 겪는 과정은 험난하다. 시간과 비용이 많이 들어가며, 과연 진단이 제대로 됐는가에 대한 의문 제기 가능
@@ -11,6 +21,7 @@
   
 ![17조  4기 17조 썸네일](https://github.com/user-attachments/assets/2a2d28e7-2b77-4607-b724-6db75ad3497b)
 
+<br>
 
 
 ## 2. 서비스 내용
@@ -32,11 +43,13 @@
 ![service-flow2](https://github.com/user-attachments/assets/ac86b6a0-84fa-4e77-ae8f-a4d69180ac31)
 
 
+<br>
 
 ## 3. 기술 스택
 
 ![tool-stack](https://github.com/user-attachments/assets/3b6d1880-9993-4394-a0a9-77a59341f399)
 
+<br>
 
 ## 4. 기능
    - 프롬프트
@@ -85,7 +98,9 @@
 
 
    &nbsp;
-     
+
+<br>
+
 ## 5. 개발 일정
 
 ![develop_time](https://github.com/user-attachments/assets/925502d7-ff59-4d02-aaaa-99658a4abfb6)
